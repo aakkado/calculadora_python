@@ -4,7 +4,7 @@ import tkinter.messagebox
 
 root = Tk()
 
-root.title("Scientifc Calculator")
+root.title("Scientifc wCalculator")
 root.configure(background="powder blue")
 root.resizable(width=False, height=False)
 root.geometry("496x568+0+0")
